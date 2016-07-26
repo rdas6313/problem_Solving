@@ -1,3 +1,4 @@
+//Hackerearth Tree Problem solution
 #include<stdio.h>
 #define Max 100001
 void init(int tree[][2]){
